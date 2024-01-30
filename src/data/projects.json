@@ -1,0 +1,46 @@
+[
+    {
+      "title": "Password Generator",
+      "deployedLink": "https://georgeionite.github.io/Password-Generator/",
+      "githubLink": "https://github.com/georgeionite/Password-Generator",
+      "image": "../../public/images/passwordGenerator.png"
+    },
+    {
+      "title": "Work Day Scheduler",
+      "deployedLink": "https://georgeionite.github.io/Work-Day-Scheduler/",
+      "githubLink": "https://github.com/georgeionite/Work-Day-Scheduler",
+      "image": "../../public/images/work-day-scheduler.png"
+    },
+    {
+        "title": "Wheather Dashboard",
+        "deployedLink": "https://georgeionite.github.io/Weather-Forecast/",
+        "githubLink": "https://github.com/georgeionite/Weather-Forecast",
+        "image": "../../public/images/weather-Forecast.png"
+       
+    },
+    
+    {
+        "title": "Readme Generator",
+        "githubLink": "https://github.com/georgeionite/README-Generator-",
+        "image": "../../public/images/Readme-generator.png"
+       
+    },
+
+    {
+        "title": "Profile Generator",
+        "githubLink": "https://github.com/georgeionite/Profile-Generator-",
+        "image": "../../public/images/ProfileGenerator.png"
+       
+    },
+
+    {
+        "title": "nutriScript",
+        "githubLink": "https://noah-sheldon.github.io/nutriScript/",
+        "image": "../../public/images/nutriScript2.png"
+       
+    }
+
+    
+    
+  ]
+  
